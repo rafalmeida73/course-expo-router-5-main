@@ -28,7 +28,7 @@
       [
         "expo-router",
         {
-          "origin": "https://expo-router-rsc.expo.app"
+          "origin": "https://rafaelmed-expo-router-rsc.expo.app"
         }
       ],
       [
@@ -46,8 +46,11 @@
       "reactServerFunctions": true
     },
     "extra": {
-      "router": {}
+      "router": {},
+      "eas": {
+        "projectId": "0f89b2b1-1588-4a28-9572-198e374cbbe5"
+      }
     },
-    "owner": "supersimon"
+    "owner": "rafaelmed"
   }
 }
